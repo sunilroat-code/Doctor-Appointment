@@ -2,9 +2,10 @@ Doctor Appointment System ✨
 
 A full-stack web application designed to streamline the process of booking and managing medical appointments. It serves three distinct user roles: Patients, Doctors, and Administrators, each with a dedicated and secure interface.
 
+
 🚀 Key Features
 
-
+---
 
 Patient Features (User-Facing App)
 
@@ -21,7 +22,7 @@ Secure Online Payments: Integrated with Stripe and Razorpay.
 
 Appointment Management: View, manage, and cancel appointments in a personal dashboard.
 
-
+---
 
 Doctor Features (Admin/Doctor Panel)
 
@@ -34,7 +35,7 @@ Appointment Management: View a list of their appointments and mark them as "Comp
 
 Profile Management: Update their own fees, availability, "About Me" section, and more.
 
-
+---
 
 Admin Features (Admin/Doctor Panel)
 
@@ -46,6 +47,8 @@ Platform-Wide Dashboard: View high-level statistics for the entire platform.
 Doctor Management: Add new doctors to the platform and manage their availability.
 
 Appointment Oversight: View and manage all appointments across the entire system.
+
+---
 
 <img width="622" height="386" alt="image" src="https://github.com/user-attachments/assets/79019b89-95d5-4dc9-a337-0a212da0c699" />
 
