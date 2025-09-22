@@ -1,4 +1,8 @@
-Doctor Appointment System ✨ Check out [my project](https://doctor-appointment-frontend-beta-rouge.vercel.app/)!  Check out [my project](https://doctor-appointment-admin-two.vercel.app/)!
+Doctor Appointment System ✨ 
+
+Check out my frontend [my project](https://doctor-appointment-frontend-beta-rouge.vercel.app/)! 
+
+Check out my admin  [my project](https://doctor-appointment-admin-two.vercel.app/)!
 
 
 
